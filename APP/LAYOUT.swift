@@ -1,3 +1,4 @@
+import SwiftUI
 struct ContentView: View {
     // @State é pra coisas que mudam dentro da tela e fazem ela atualizar
     @State private var textoPesquisa: String = ""
